@@ -1,0 +1,40 @@
+[
+	{
+		"id" : 1,
+		"email": "em1@mail.com",
+		"name": "Vlad",
+		"country": "Ukraine",
+		"phone": "+380503333331",
+		"password": "1",
+		"money": 500,
+		"activeLots": [2, 3],
+		"lotsOnSale": [1, 4, 5, 10, 12, 14, 17, 18, 19, 20, 24, 25],
+		"wonLots": []
+	},
+	{
+		"id" : 2,
+		"email": "em2@mail.com",
+		"name": "seller1",
+		"country": "Ukraine",
+		"phone": "+380503333332",
+		"password": "54321",
+		"money": 500,
+		"activeLots": [1],
+		"lotsOnSale": [6, 7, 8, 9, 11, 15, 16, 21, 22, 29],
+		"wonLots": []
+	
+	},
+	{
+		"id" : 3,
+		"email": "em3@mail.com",
+		"name": "seller2",
+		"country": "Ukraine",
+		"phone": "+380503333333",
+		"password": "12345",
+		"money": 500,
+		"activeLots": [1],
+		"lotsOnSale": [2, 3, 13, 23, 26, 27, 28],
+		"wonLots": []
+
+	}
+]

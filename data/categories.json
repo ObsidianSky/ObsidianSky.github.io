@@ -1,0 +1,27 @@
+{
+  "phones": {
+    "spec": {
+      "brand": ["Apple", "Alcatel", "HTC", "Lenovo", "Samsung"],
+      "RAM": ["1 GB", "2 GB", "3 GB", "4 GB"],
+      "screen diagonal": ["<4 in", "4.5 in", "5 in", "5.5 in", "6 in", ">6 in"]
+    }
+  },
+  "monitors": {
+    "spec": {
+      "brand": ["Acer", "Asus", "BenQ", "Dell", "LG", "Samsung", "Philips"],
+      "martix type": ["IPS/PLS", "TN", "VA"],
+      "screen diagonal": ["<18 in", "18 in", "20 in", "22 in", "24 in", "26 in", "> 26 in"]
+    }
+  }
+}
+
+
+
+
+
+
+
+ 
+
+
+

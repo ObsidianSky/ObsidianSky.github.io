@@ -1,0 +1,793 @@
+[
+	{
+		"id": 1,
+		"state": 1,
+		"title": "Samsung Galaxy Note7",
+    "description": "Esse aliquip exercitation enim nisi pariatur dolore dolore. Officia elit tempor aute ex proident laborum cupidatat Lorem sunt cillum eiusmod dolore tempor. Labore dolore ex adipisicing nostrud est consectetur duis dolore elit magna occaecat qui quis. Est cillum labore commodo dolore Lorem velit. Culpa aute incididunt et pariatur esse reprehenderit fugiat mollit sit ipsum. Proident aliqua eu dolore id officia aute nisi veniam fugiat ipsum minim.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+		"images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+		"minimalPrice": 20,
+    "blitzPrice": 50,
+		"sellerId": 1,
+		"category": "phones",
+    "createDate": 1470919196000,
+    "finalDate": 1471351196000,
+		"spec":{
+			"brand": "Samsung",
+			"RAM": "4 GB",
+      "screen diagonal": "5 in"
+		},
+		"bids": {	
+      "3": 70,
+      "2": 55
+		}
+	},
+	{
+		"id": 2,
+		"state": 1,
+		"title": "Motorola",
+    "description": "Pariatur aute Lorem consequat nulla cillum cupidatat. Lorem exercitation nostrud adipisicing ut commodo reprehenderit nostrud duis aute et adipisicing. Duis adipisicing nisi officia minim dolor nulla aliqua consequat quis ipsum Lorem nulla proident culpa. Cillum velit Lorem laborum aliquip. Esse ullamco id veniam cupidatat labore esse amet non consectetur nostrud velit consequat excepteur mollit.\r\n",
+		"thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+		"minimalPrice": 40,
+    "blitzPrice": 100,
+		"sellerId": 3,
+		"category": "phones",
+    "createDate": 1470961296000,
+    "finalDate": 1471393296000,
+		"spec":{
+			"brand": "Motorola",
+			"RAM": "4 GB",
+      "screen diagonal": "5 in"
+		},
+		"bids": {
+			"1":70
+		}	
+	},
+	{
+		"id": 3,
+		"state": 1,
+		"title": "Phone",
+    "description": "Excepteur tempor ipsum velit excepteur laborum et. Ullamco mollit mollit deserunt cillum elit excepteur irure qui velit reprehenderit sint. Officia exercitation sit ex commodo amet ex nulla Lorem aute fugiat ipsum. Labore cupidatat cupidatat ad minim ad voluptate laborum dolor do. Ullamco non aliquip dolore id. Minim ad velit elit exercitation nulla laboris eiusmod anim ex occaecat commodo consequat.\r\n",
+		"thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+		"minimalPrice": 80,
+    "blitzPrice": 120,
+		"sellerId": 3,
+		"category": "phones",
+    "createDate": 1470922886000,
+    "finalDate": 1471182086000,
+		"spec":{
+			"brand": "Cellphone",
+			"RAM": "2 GB",
+      "screen diagonal": "5 in"
+		},
+		"bids": {
+			"1": 100
+		}
+	},
+	{
+		"id": 4,
+		"state": 1,
+		"title": "iPhone",
+    "description": "Ut exercitation ea ad eiusmod incididunt id irure ullamco reprehenderit. Sint ullamco qui adipisicing qui veniam labore commodo aliquip in aute quis ipsum nulla. Officia exercitation quis veniam proident in proident ipsum velit dolore ex laborum deserunt reprehenderit. Reprehenderit fugiat qui ad occaecat esse consequat non. Magna magna consequat elit anim cupidatat. Excepteur ex elit ad aute qui dolore do anim ullamco reprehenderit sit.\r\n",
+		"thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+		"minimalPrice": 100,
+    "blitzPrice": 200,
+		"sellerId": 1,
+		"category": "phones",
+    "createDate": 1470921070000,
+    "finalDate": 1471525870000,
+		"spec":{
+			"brand": "Apple",
+			"RAM": "4 GB",
+      "screen diagonal": "5 in"
+		},
+		"bids": {
+			"2": 140
+		}
+	},
+	{
+		"id": 5,
+		"state": 1,
+		"title": "iPhone 2",
+    "description": "Quis commodo nulla proident mollit incididunt ex deserunt veniam culpa est laboris. Irure pariatur et cupidatat pariatur nostrud dolor qui officia ad ut sit consectetur laboris. Deserunt ipsum sunt nulla fugiat quis cupidatat ipsum id adipisicing enim laboris eu irure. Eiusmod excepteur incididunt id quis reprehenderit aliqua irure id elit excepteur nisi aute in. Fugiat officia nulla cillum et. Elit ullamco sit nostrud esse ut commodo consequat enim esse non consectetur aliqua minim. Ut labore sint sit sint do.\r\n",		"thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+		"minimalPrice": 120,
+    "blitzPrice": 250,
+		"sellerId": 1,
+		"category": "phones",
+    "createDate": 1470873271000,
+    "finalDate": 1471132471000,
+		"spec":{
+			"brand": "Apple",
+			"RAM": "2 GB",
+      "screen diagonal": "5 in"
+		},
+		"bids": null		
+	},
+	{
+		"id": 6,
+		"state": 1,
+		"title": "iPhone 3",
+    "description": "Minim amet velit ea cupidatat consectetur mollit deserunt sint elit dolore non irure reprehenderit eiusmod. Irure veniam velit ad sunt qui. Ut nostrud reprehenderit aliqua anim nisi cupidatat irure esse laborum fugiat tempor. Dolore esse Lorem id duis irure laboris commodo non sint cillum ullamco minim.\r\n",
+		"thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+		"minimalPrice": 120,
+    "blitzPrice": 200,
+		"sellerId": 2,
+		"category": "phones",
+    "createDate": 1470920470000,
+    "finalDate": 1471525270000,
+		"spec":{
+			"brand": "Apple",
+			"RAM": "4 GB",
+      "screen diagonal": "5 in"
+		},
+		"bids": null
+	},
+	{
+		"id": 7,
+		"state": 1,
+		"title": "LG 22MP58VQ-P",
+    "description": "Nulla cupidatat enim laborum ullamco tempor aliquip cillum qui velit commodo aliquip. Dolore aliqua incididunt cillum officia dolor consectetur nostrud. Dolore id nostrud ea incididunt exercitation nostrud voluptate amet esse Lorem laboris veniam excepteur commodo. Non laboris culpa culpa et ipsum dolore nostrud adipisicing. Eu ea velit nulla incididunt velit adipisicing fugiat mollit pariatur.\r\n",
+		"thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+		"minimalPrice": 33,
+    "blitzPrice": 50,
+		"sellerId": 2,
+		"category": "monitors",
+    "createDate": 1470862877000,
+    "finalDate": 1470949277000,
+		"spec":{
+			"brand": "LG",
+			"martix type": "VA",
+			"screen diagonal": "22 in"
+		},
+		"bids": null
+	},
+	{
+		"id": 8,
+		"state": 1,
+		"title": "Samsung Monitor",
+    "description": "Officia nulla duis tempor consequat esse laboris dolore enim exercitation sunt. Incididunt quis nostrud pariatur exercitation elit qui fugiat ex enim aute. Commodo anim laboris cupidatat excepteur culpa.\r\n",
+		"thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+		"minimalPrice": 90,
+    "blitzPrice": 91,
+		"sellerId": 2,
+		"category": "monitors",
+    "createDate": 1470961143000,
+    "finalDate": 1471047543000,
+		"spec":{
+			"brand": "Samsung",
+			"martix type": "IPS",
+			"screen diagonal": "24 in"
+		},
+		"bids": null
+	},
+	{
+		"id": 9,
+		"state": 1,
+		"title": "Dell P2214H",
+    "description": "Est ea fugiat proident velit exercitation. Consectetur et sint ullamco nostrud tempor aliquip adipisicing. Consequat consectetur enim fugiat exercitation labore laboris. Anim ipsum consequat tempor nisi pariatur dolore Lorem Lorem eu fugiat duis commodo sit aliquip. Irure culpa commodo nostrud veniam id eiusmod. In ex laborum elit nulla. Magna mollit commodo dolore amet eu cillum tempor veniam do.\r\n",
+		"thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+		"minimalPrice": 120,
+    "blitzPrice": 140,
+		"sellerId": 2,
+		"category": "monitors",
+    "createDate": 1470977377000,
+    "finalDate": 1471582177000,
+		"spec":{
+			"brand": "Dell",
+			"martix type": "IPS/PLS",
+			"screen diagonal": "18 in"
+		},
+		"bids": null
+	},
+  {
+    "id": 10,
+    "state": 1,
+    "title": "voluptate commodo",
+    "description": "Qui nulla pariatur nisi dolor officia tempor ipsum aute ea eiusmod fugiat ex excepteur do. Amet aliqua do anim qui velit dolor. Eiusmod reprehenderit esse veniam sunt irure excepteur officia Lorem occaecat fugiat. Ad adipisicing sint velit aute minim aliqua irure ad consequat et. Consectetur dolor occaecat id adipisicing dolor pariatur aute deserunt eiusmod do. Ipsum nulla qui sunt esse cupidatat cillum adipisicing cillum.\r\nEiusmod culpa nostrud occaecat Lorem aliquip fugiat laboris. Voluptate irure qui incididunt nostrud nulla laborum. Anim est deserunt aliqua do commodo ad quis reprehenderit sit labore occaecat.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 488,
+    "blitzPrice": 642,
+    "sellerId": 1,
+    "category": "phones",
+    "cD": "Fri Aug 12 2016 01:37:00 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470955020000,
+    "finalDate": 1471387020000,
+    "spec": {
+      "brand": "Samsung",
+      "RAM": "2 GB",
+      "screen diagonal": "5.5 in"
+    }
+  },
+  {
+    "id": 11,
+    "state": 1,
+    "title": "culpa reprehenderit",
+    "description": "Eu nulla sint voluptate consequat adipisicing incididunt ut sunt. Incididunt voluptate est pariatur mollit esse eu anim quis. Eu consequat voluptate cillum fugiat sunt esse enim quis adipisicing nulla. Consectetur aliquip aute ut labore ullamco ut eiusmod esse magna.\r\nNostrud nostrud tempor incididunt et occaecat veniam do ea proident. Voluptate consequat cupidatat adipisicing ea. Proident esse sunt est exercitation dolore sit nulla aliquip. Tempor quis aute sunt magna anim occaecat ea reprehenderit aliqua mollit aliqua aute. Veniam do ut tempor non fugiat mollit enim do deserunt. Cillum cupidatat qui sint id consectetur aute elit amet non ipsum laborum sit in.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 298,
+    "blitzPrice": 477,
+    "sellerId": 2,
+    "category": "phones",
+    "cD": "Thu Aug 11 2016 02:00:52 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470870052000,
+    "finalDate": 1471129252000,
+    "spec": {
+      "brand": "Apple",
+      "RAM": "2 GB",
+      "screen diagonal": "5 in"
+    }
+  },
+  {
+    "id": 12,
+    "state": 1,
+    "title": "aliqua mollit",
+    "description": "Tempor veniam irure consequat laboris sit ipsum et est ad qui laborum aute laborum aliqua. Nostrud consequat ipsum aliqua aliquip laboris magna veniam minim sunt eu enim laboris et elit. Dolore dolore laboris cillum irure enim duis ullamco. Non cupidatat ullamco aliqua commodo nisi irure veniam. Consectetur qui consectetur eu proident sint sunt laborum occaecat cillum id cupidatat. Sit ullamco culpa eiusmod exercitation laboris enim fugiat ut cillum anim excepteur aliqua ex labore. Est officia fugiat cillum aliquip exercitation non enim esse sit nulla deserunt ex.\r\nOfficia est ex amet ullamco consequat nulla do cillum anim aliquip enim magna aute. Veniam fugiat cillum occaecat ipsum in aliqua dolor. Labore minim aliquip minim exercitation pariatur nisi cupidatat ad. Ullamco eu consectetur culpa non veniam commodo velit eiusmod culpa. Mollit qui ullamco laboris nisi veniam labore non magna incididunt cupidatat et irure dolore quis. Pariatur Lorem aliqua aliquip exercitation ad officia cupidatat ea ex enim. Sunt est velit ea adipisicing non sint commodo laboris Lorem officia officia occaecat irure ea.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 105,
+    "blitzPrice": 335,
+    "sellerId": 1,
+    "category": "phones",
+    "cD": "Thu Aug 11 2016 12:12:03 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470906723000,
+    "finalDate": 1471338723000,
+    "spec": {
+      "brand": "Apple",
+      "RAM": "1 GB",
+      "screen diagonal": "5 in"
+    }
+  },
+  {
+    "id": 13,
+    "state": 1,
+    "title": "Lorem deserunt",
+    "description": "Ea est amet ea labore magna velit cupidatat culpa enim sint. Minim labore nostrud do irure nisi duis. Irure exercitation officia eiusmod veniam magna occaecat ullamco magna. Culpa ad sit occaecat esse eiusmod magna laboris pariatur.\r\nVoluptate et anim cupidatat esse reprehenderit amet id enim mollit consectetur aliqua sunt enim occaecat. Amet mollit quis reprehenderit dolor voluptate et nisi ad dolore anim ea. Ex fugiat esse Lorem ex consequat tempor dolore mollit reprehenderit excepteur.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 225,
+    "blitzPrice": 422,
+    "sellerId": 3,
+    "category": "phones",
+    "cD": "Thu Aug 11 2016 05:03:13 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470880993000,
+    "finalDate": 1471485793000,
+    "spec": {
+      "brand": "Samsung",
+      "RAM": "1 GB",
+      "screen diagonal": "<4 in"
+    }
+  },
+  {
+    "id": 14,
+    "state": 1,
+    "title": "elit laborum",
+    "description": "Magna esse dolore aute officia mollit sint esse nisi consequat incididunt elit. Consectetur laboris aliquip culpa nulla Lorem sunt. Amet sint labore cillum nisi commodo aliquip commodo elit amet enim cupidatat pariatur tempor. Et aute voluptate aliqua ipsum exercitation nulla do mollit. Irure eu id qui aute ad excepteur magna nostrud.\r\nUt ipsum ea irure excepteur nostrud aliquip anim. Consectetur labore pariatur dolor ipsum minim. Veniam aliqua mollit ad aliquip officia. Ullamco nulla minim duis pariatur est consequat sint reprehenderit occaecat nisi deserunt aliquip laboris. Deserunt do ea qui Lorem aute ex. Nulla veniam consectetur velit do labore officia irure do elit nulla nostrud. Voluptate eu dolore aliqua ea mollit labore ipsum cupidatat nulla.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 593,
+    "blitzPrice": 804,
+    "sellerId": 1,
+    "category": "phones",
+    "cD": "Thu Aug 11 2016 01:14:10 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470867250000,
+    "finalDate": 1471299250000,
+    "spec": {
+      "brand": "Apple",
+      "RAM": "1 GB",
+      "screen diagonal": "<4 in"
+    }
+  },
+  {
+    "id": 15,
+    "state": 1,
+    "title": "occaecat ea",
+    "description": "Ut duis et sunt nostrud aliquip voluptate exercitation ad commodo laboris ad. Enim anim labore culpa officia minim voluptate quis sint dolor. Laborum ad aliqua ea mollit non sit adipisicing veniam anim. Qui amet nostrud id aute officia est veniam elit ullamco occaecat nisi veniam et.\r\nExcepteur dolor irure amet minim laborum Lorem amet. Labore magna dolor minim magna dolor occaecat labore duis ullamco laborum eu tempor irure Lorem. Laboris nulla eu id minim esse dolore ad laborum do laborum nisi reprehenderit consectetur esse. Sit exercitation ipsum anim nisi aute aliquip irure laborum non cillum amet nulla occaecat commodo. Excepteur ad commodo irure sunt. Dolor ipsum aute do esse ad ea ipsum non quis duis.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 64,
+    "blitzPrice": 267,
+    "sellerId": 2,
+    "category": "phones",
+    "cD": "Thu Aug 11 2016 22:34:03 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470944043000,
+    "finalDate": 1471548843000,
+    "spec": {
+      "brand": "HTC",
+      "RAM": "1 GB",
+      "screen diagonal": ">6 in"
+    }
+  },
+  {
+    "id": 16,
+    "state": 1,
+    "title": "anim adipisicing",
+    "description": "Ea culpa id cupidatat qui nisi quis nostrud laboris irure. Labore pariatur laborum est consequat ad non. Eu tempor eu sint aliqua commodo qui Lorem deserunt laborum commodo commodo aliquip. Incididunt eiusmod reprehenderit labore et nostrud ut ut. Lorem irure nostrud tempor irure culpa dolore sunt. Id ea proident enim cillum pariatur laboris enim consectetur cillum aute commodo tempor nulla.\r\nUt anim et occaecat occaecat officia pariatur proident aute nulla veniam sunt. Lorem eu anim fugiat minim. Deserunt consequat aute cillum culpa occaecat ipsum deserunt commodo enim cupidatat et. Mollit nisi eu ut elit ad excepteur. Cupidatat exercitation aliqua qui in dolor nulla laborum eu ipsum pariatur mollit officia.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 640,
+    "blitzPrice": 849,
+    "sellerId": 2,
+    "category": "phones",
+    "cD": "Thu Aug 11 2016 07:14:05 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470888845000,
+    "finalDate": 1471148045000,
+    "spec": {
+      "brand": "HTC",
+      "RAM": "2 GB",
+      "screen diagonal": "4.5 in"
+    }
+  },
+  {
+    "id": 17,
+    "state": 1,
+    "title": "dolor tempor",
+    "description": "Ut consequat adipisicing reprehenderit consectetur Lorem. Ea culpa culpa nulla cillum aliquip culpa. Ex ex labore sint culpa. Aute commodo minim laboris velit id sint ad. Deserunt elit tempor dolor tempor ad elit occaecat. Eiusmod consectetur pariatur ex nisi aliquip nulla cupidatat occaecat ullamco tempor veniam aliqua in ea. Qui duis reprehenderit nostrud nisi incididunt duis proident ut.\r\nExcepteur dolore labore velit occaecat minim sunt laborum cillum. Nostrud ut aute veniam cillum. Amet mollit deserunt Lorem non. Veniam ea ullamco proident proident qui sint irure magna sunt. Enim reprehenderit adipisicing amet officia. Pariatur incididunt aute aliqua tempor amet nostrud sit. Proident id sit ex quis labore magna tempor ullamco velit dolore culpa aliquip eiusmod.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 306,
+    "blitzPrice": 484,
+    "sellerId": 1,
+    "category": "phones",
+    "cD": "Fri Aug 12 2016 05:51:42 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470970302000,
+    "finalDate": 1471402302000,
+    "spec": {
+      "brand": "Samsung",
+      "RAM": "3 GB",
+      "screen diagonal": "4.5 in"
+    }
+  },
+  {
+    "id": 18,
+    "state": 1,
+    "title": "ad elit",
+    "description": "Et in duis pariatur magna voluptate occaecat reprehenderit tempor elit deserunt in nisi. Lorem aliquip eiusmod id esse. Lorem in non ea laboris. Ipsum voluptate laboris ut nostrud adipisicing nostrud nulla officia non sint. Sunt id reprehenderit ut fugiat qui ipsum enim velit aute do aute commodo adipisicing. Laboris minim adipisicing occaecat do non ea culpa culpa qui.\r\nUllamco do sunt culpa sit occaecat mollit esse duis do veniam eu commodo pariatur. Ut ullamco mollit irure amet ad ex occaecat do. Aliquip elit nostrud nulla commodo do consectetur do tempor nostrud. Minim irure anim fugiat pariatur labore dolore. Nisi consectetur eiusmod occaecat deserunt cillum tempor reprehenderit.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 66,
+    "blitzPrice": 335,
+    "sellerId": 1,
+    "category": "phones",
+    "cD": "Thu Aug 11 2016 06:43:44 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470887024000,
+    "finalDate": 1471146224000,
+    "spec": {
+      "brand": "HTC",
+      "RAM": "4 GB",
+      "screen diagonal": "4.5 in"
+    }
+  },
+  {
+    "id": 19,
+    "state": 1,
+    "title": "labore ipsum",
+    "description": "Nisi exercitation esse commodo Lorem dolore. Incididunt sit proident magna ullamco occaecat eiusmod ex officia. Anim consequat mollit ex sunt in aliquip laborum deserunt esse exercitation eu non laborum. Qui adipisicing eu eiusmod adipisicing eiusmod anim veniam cupidatat. Occaecat pariatur sunt commodo nostrud nulla non officia. Enim irure mollit nisi esse quis aliquip.\r\nPariatur exercitation ullamco in elit ipsum non pariatur reprehenderit ut culpa consectetur nisi amet. Officia ex dolore proident minim aute anim commodo in. Nisi exercitation consequat nostrud aute esse incididunt amet est.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 570,
+    "blitzPrice": 847,
+    "sellerId": 1,
+    "category": "phones",
+    "cD": "Thu Aug 11 2016 14:03:16 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470913396000,
+    "finalDate": 1470999796000,
+    "spec": {
+      "brand": "Lenovo",
+      "RAM": "3 GB",
+      "screen diagonal": ">6 in"
+    }
+  },
+  {
+    "id": 20,
+    "state": 1,
+    "title": "labore commodo",
+    "description": "Amet elit proident irure dolor sunt non esse esse tempor anim veniam fugiat. Consequat voluptate exercitation velit in elit consectetur Lorem sunt sunt qui deserunt qui commodo. Excepteur ex amet magna pariatur reprehenderit eu qui. Aliquip cillum enim deserunt cupidatat. Incididunt deserunt minim pariatur et esse quis ad ad nostrud proident officia ut. Aute irure cupidatat enim excepteur culpa ad magna excepteur reprehenderit dolore sit et consequat.\r\nAliqua mollit anim eiusmod et esse est ullamco dolor. Veniam pariatur ipsum irure amet dolor quis irure culpa eiusmod ipsum nostrud deserunt eu anim. Veniam mollit ad minim incididunt laborum non sunt fugiat non anim ea. Dolor est Lorem incididunt fugiat exercitation mollit aliqua sit sunt est.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 318,
+    "blitzPrice": 418,
+    "sellerId": 1,
+    "category": "phones",
+    "cD": "Fri Aug 12 2016 04:09:11 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470964151000,
+    "finalDate": 1471223351000,
+    "spec": {
+      "brand": "Apple",
+      "RAM": "2 GB",
+      "screen diagonal": "5.5 in"
+    }
+  },
+  {
+    "id": 21,
+    "state": 1,
+    "title": "nulla in",
+    "description": "Deserunt aliqua fugiat dolore mollit enim voluptate amet anim id. Proident aute magna voluptate amet. Voluptate labore anim cillum magna proident. Sit mollit ullamco ipsum qui officia quis et. Consequat Lorem est commodo aute cillum mollit et laboris veniam qui irure reprehenderit do in.\r\nConsectetur qui exercitation eiusmod sunt irure culpa duis. Quis sunt nostrud amet velit in pariatur irure. Aute in est ex id Lorem tempor consequat anim dolore amet minim. Ullamco labore sit amet officia minim mollit nulla id dolore anim ad. Dolor nulla duis fugiat laboris cupidatat amet adipisicing ullamco esse id nulla. Consectetur quis excepteur occaecat laborum ullamco quis aliqua incididunt cupidatat irure. Ut enim nostrud duis ipsum tempor anim.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 460,
+    "blitzPrice": 570,
+    "sellerId": 2,
+    "category": "phones",
+    "cD": "Thu Aug 11 2016 17:52:11 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470927131000,
+    "finalDate": 1471359131000,
+    "spec": {
+      "brand": "Alcatel",
+      "RAM": "4 GB",
+      "screen diagonal": "<4 in"
+    }
+  },
+  {
+    "id": 22,
+    "state": 1,
+    "title": "ipsum nisi",
+    "description": "Laboris aliqua Lorem nisi in minim nostrud enim fugiat nisi adipisicing ex. Ut ex proident id in non in eiusmod. Mollit deserunt aute eiusmod anim duis ipsum officia culpa ipsum sunt laboris cillum. Nisi Lorem deserunt laboris id reprehenderit.\r\nUllamco ipsum proident sit dolore aute ea laborum incididunt cupidatat aliquip magna. Incididunt ullamco voluptate exercitation dolore nostrud occaecat incididunt aute sint laborum proident elit culpa ut. Amet esse enim incididunt anim deserunt velit cillum minim ullamco adipisicing irure minim laboris. Eiusmod elit quis nostrud sint aute voluptate id velit occaecat veniam dolor est nisi reprehenderit.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 297,
+    "blitzPrice": 582,
+    "sellerId": 2,
+    "category": "phones",
+    "cD": "Thu Aug 11 2016 18:21:51 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470928911000,
+    "finalDate": 1471533711000,
+    "spec": {
+      "brand": "Alcatel",
+      "RAM": "3 GB",
+      "screen diagonal": ">6 in"
+    }
+  },
+  {
+    "id": 23,
+    "state": 1,
+    "title": "consectetur anim",
+    "description": "Est quis esse ea incididunt esse ea nulla proident officia sit tempor. Duis magna sunt ipsum elit. Anim incididunt ut esse irure consequat ullamco qui nostrud occaecat amet Lorem. Incididunt dolore est pariatur sunt veniam adipisicing nostrud sunt labore aliqua elit. Qui occaecat mollit mollit ut. Id fugiat incididunt in in pariatur veniam cupidatat cupidatat. Minim deserunt culpa nostrud consequat dolore non aliquip.\r\nLabore et Lorem aute irure sunt fugiat veniam qui anim in magna. Amet nulla duis consequat voluptate esse. Non voluptate fugiat tempor sunt consequat. Magna excepteur sunt nisi do fugiat do aliqua ea sunt in.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 87,
+    "blitzPrice": 332,
+    "sellerId": 3,
+    "category": "phones",
+    "cD": "Fri Aug 12 2016 05:15:43 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470968143000,
+    "finalDate": 1471227343000,
+    "spec": {
+      "brand": "HTC",
+      "RAM": "4 GB",
+      "screen diagonal": ">6 in"
+    }
+  },
+  {
+    "id": 24,
+    "state": 1,
+    "title": "Lorem magna",
+    "description": "Exercitation magna quis excepteur cillum et mollit ex. Deserunt nisi culpa qui in nulla anim aute est in eiusmod sit reprehenderit consequat. Ad irure magna dolor tempor enim ut id ipsum Lorem ullamco. Duis laboris deserunt culpa culpa esse labore eu magna consectetur amet commodo eiusmod. Duis ullamco anim ullamco proident commodo. Adipisicing do consequat adipisicing ad anim commodo Lorem.\r\nAliquip excepteur velit consequat ut ullamco labore et nisi eu magna culpa. Do commodo esse ut velit cillum sit labore. Adipisicing culpa ipsum do qui dolore ipsum quis nulla velit eiusmod magna. Nostrud sit ex duis dolor velit ad laboris proident esse nulla exercitation deserunt est. Veniam culpa in commodo labore elit quis laborum. Proident ea dolor officia nisi in ad.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 601,
+    "blitzPrice": 710,
+    "sellerId": 1,
+    "category": "phones",
+    "cD": "Thu Aug 11 2016 23:11:46 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470946306000,
+    "finalDate": 1471205506000,
+    "spec": {
+      "brand": "Samsung",
+      "RAM": "2 GB",
+      "screen diagonal": "4.5 in"
+    }
+  },
+  {
+    "id": 25,
+    "state": 1,
+    "title": "ad nisi",
+    "description": "Elit veniam proident non ex pariatur culpa nulla anim qui consectetur elit laboris. Ipsum reprehenderit ea esse ullamco proident nostrud aute officia cillum veniam aliqua nisi aliqua. Eu cillum minim nisi officia et dolor. Cupidatat anim nostrud mollit amet ex deserunt sint.\r\nEsse enim aliqua est commodo sunt deserunt irure dolor ullamco reprehenderit tempor dolor aute dolore. Cupidatat labore dolor aute irure sunt dolore aliquip. Quis ullamco nulla anim do quis commodo quis reprehenderit id magna. Est do sint minim nisi sint non commodo. Ea laborum incididunt ad incididunt dolor aliquip quis. Ea voluptate laborum occaecat nulla aliqua aliquip duis Lorem mollit.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 418,
+    "blitzPrice": 676,
+    "sellerId": 1,
+    "category": "phones",
+    "cD": "Thu Aug 11 2016 16:41:09 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470922869000,
+    "finalDate": 1471182069000,
+    "spec": {
+      "brand": "Apple",
+      "RAM": "4 GB",
+      "screen diagonal": ">6 in"
+    }
+  },
+  {
+    "id": 26,
+    "state": 1,
+    "title": "irure do",
+    "description": "Exercitation tempor sunt laboris Lorem elit proident voluptate exercitation. Veniam laborum qui incididunt mollit elit laboris duis laboris ullamco culpa quis amet. In consequat Lorem voluptate quis est ex. Do veniam adipisicing ut magna Lorem ad elit id esse laboris consectetur dolore. In dolore duis commodo veniam voluptate anim amet culpa deserunt in occaecat dolore. Occaecat mollit ad ad exercitation incididunt tempor.\r\nCupidatat labore ut laborum ullamco laborum nulla labore sunt mollit cupidatat consectetur exercitation. Enim minim amet tempor laboris nulla deserunt magna enim elit ipsum tempor cupidatat ea. Enim voluptate pariatur mollit ullamco et occaecat nisi nulla dolor nostrud.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 263,
+    "blitzPrice": 409,
+    "sellerId": 3,
+    "category": "phones",
+    "cD": "Thu Aug 11 2016 01:23:20 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470867800000,
+    "finalDate": 1471472600000,
+    "spec": {
+      "brand": "Alcatel",
+      "RAM": "4 GB",
+      "screen diagonal": "<4 in"
+    }
+  },
+  {
+    "id": 27,
+    "state": 1,
+    "title": "labore pariatur",
+    "description": "Excepteur culpa do sint ea id cillum duis pariatur reprehenderit id. Officia tempor proident proident et eu ex deserunt velit exercitation cillum dolore aliquip qui. Deserunt excepteur voluptate excepteur duis eu irure duis amet voluptate qui deserunt irure reprehenderit adipisicing.\r\nNon voluptate in commodo anim. Officia ut occaecat qui excepteur minim ad eiusmod magna amet deserunt. Incididunt dolor laboris esse reprehenderit. Ipsum esse aliqua incididunt tempor fugiat Lorem adipisicing. Amet veniam Lorem quis magna sunt ipsum consectetur voluptate consectetur pariatur. Excepteur et mollit dolore non magna eiusmod in dolor.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 191,
+    "blitzPrice": 299,
+    "sellerId": 3,
+    "category": "phones",
+    "cD": "Thu Aug 11 2016 20:38:37 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470937117000,
+    "finalDate": 1471196317000,
+    "spec": {
+      "brand": "Apple",
+      "RAM": "3 GB",
+      "screen diagonal": "4.5 in"
+    }
+  },
+  {
+    "id": 28,
+    "state": 1,
+    "title": "deserunt labore",
+    "description": "Ad consequat sit officia tempor tempor sunt nostrud ullamco. Do Lorem dolor minim adipisicing ut nulla tempor veniam qui quis nostrud ipsum. Fugiat consectetur fugiat ipsum sint minim dolor sint laboris do aliqua voluptate.\r\nExcepteur sint consequat labore magna dolor occaecat. Aliqua esse tempor ad ex. Dolor enim enim aliqua in in ex cupidatat ullamco sint nisi ad sint ipsum et. Lorem veniam nulla exercitation exercitation non. Elit esse nisi amet magna eiusmod ipsum proident officia magna cupidatat enim commodo. Ad nisi aute nostrud magna elit voluptate ea adipisicing aute officia et aute laborum.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 106,
+    "blitzPrice": 400,
+    "sellerId": 3,
+    "category": "phones",
+    "cD": "Fri Aug 12 2016 03:11:23 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470960683000,
+    "finalDate": 1471565483000,
+    "spec": {
+      "brand": "Lenovo",
+      "RAM": "3 GB",
+      "screen diagonal": "6 in"
+    }
+  },
+  {
+    "id": 29,
+    "state": 1,
+    "title": "proident labore",
+    "description": "Occaecat aliqua dolor sint in. Incididunt esse ut excepteur Lorem culpa velit. Cupidatat sit cupidatat duis excepteur. Eiusmod aliqua eiusmod Lorem anim in.\r\nIn amet deserunt excepteur adipisicing culpa elit sunt consequat fugiat culpa. Aute cillum voluptate reprehenderit est esse aliquip fugiat eiusmod sint. Commodo tempor est aute amet et id culpa deserunt. Est occaecat tempor enim eiusmod nostrud ipsum veniam id veniam sunt aliquip quis. Nulla Lorem commodo minim ipsum culpa ullamco ipsum. Adipisicing minim consectetur laboris in culpa cillum labore occaecat tempor esse. Velit duis consectetur elit non amet ad Lorem consectetur ad eu.\r\n",
+    "thumbnail": "http://placehold.it/260x260",
+    "images": [
+      "http://placehold.it/600x600",
+      "http://placehold.it/800x400",
+      "http://placehold.it/1200x600",
+      "http://placehold.it/800x500",
+      "http://placehold.it/500x400",
+      "http://placehold.it/800x700"
+    ],
+    "minimalPrice": 92,
+    "blitzPrice": 231,
+    "sellerId": 2,
+    "category": "phones",
+    "cD": "Thu Aug 11 2016 22:01:18 GMT+0300 (FLE Daylight Time)",
+    "createDate": 1470942078000,
+    "finalDate": 1471201278000,
+    "spec": {
+      "brand": "Apple",
+      "RAM": "2 GB",
+      "screen diagonal": "4.5 in"
+    }
+  }
+]
